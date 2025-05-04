@@ -54,7 +54,7 @@ Profissão: Comunicador e defensor da saúde mental
 ## 🎧 Formato dos Episódios
 
 - Duração: até 5 minutos  
-- Apresentação solo com Bruno Velloso  
+- Apresentação solo com Bruno Velloso (alguns episódios com convidados)  
 - Estrutura:
   1. Introdução
   2. Três temas centrais
@@ -70,11 +70,7 @@ Profissão: Comunicador e defensor da saúde mental
   - Verde-menta `#00C897`
   - Laranja vibrante `#FF6B35`
   - Branco suave `#F9F9F9`
-
-- **Vinheta de Abertura**: narrada por Bruno Velloso  
-- **Vinheta de Encerramento**:
-  > “Você ouviu o No Grau Cast — a sintonia perfeita entre tecnologia, bem-estar e som de qualidade..."
-
+  - 
 ---
 
 ## 🔧 Ferramentas Utilizadas
