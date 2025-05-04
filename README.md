@@ -100,9 +100,9 @@ Profissão: Comunicador e defensor da saúde mental
 
 ## 📁 Estrutura de Pastas
 
-📂 no-grau-cast/
-├── 📁 assets/            # Imagens, logos, identidade visual
-├── 📁 audios/            # Áudios dos episódios
-├── 📁 roteiros/          # Roteiros dos episódios
-├── 📁 vinhetas/          # Textos das vinhetas
-└── 📄 README.md          # Apresentação do projeto
+📂 no-grau-cast/<br>
+├── 📁 assets/            # Imagens, logos, identidade visual<br>
+├── 📁 audios/            # Áudios dos episódios<br>
+├── 📁 roteiros/          # Roteiros dos episódios<br>
+├── 📁 vinhetas/          # Textos das vinhetas<br>
+└── 📄 README.md          # Apresentação do projeto<br>
