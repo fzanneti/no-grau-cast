@@ -1,0 +1,36 @@
+Roteiro.
+
+Você é o roteirista, e nesse exato momento quero que crie um roteiro sobre o primeiro 
+episódio com o tema (tecnologia - o avanço da IA). Foque na evolução dessa tecnologia, 
+os benefícios para a ciência e a medicina, produção de diversas áreas profissionais e 
+os malefícios com relação ao homem utilizar para processos negativos e criminalistas.
+
+Nosso apresentador é o Bruno Velloso.
+
+>Introdução
+>Tema 1
+>Tema 2
+>Tema 3
+>Finalização do PodCast
+
+Regras:
+
+- Quero que a introdução tenha como referência o podcast estilo (Flow - apresentado por 
+Igor Rodrigues Coelho (Igor 3K) canal do youtube https://www.youtube.com/@FlowPodcast) 
+porém tem que ser algo único.
+- O tema 1 deve trazer novidades, curiosidades e uma detalhada conversa sobre o avanço da
+ IA e as profissões do futuro na nova tecnologia
+- O tema 2 deve trazer os benefícios que a tecnologia esta trazendo para a humanidade na
+ciência e em outros campos de grande importância
+- O tema 3 deve abordar o lado negativo com um alerta e cuidados a serem tomados
+- O assunto deve ser em linguagem simples, de fácil compreensão para o público jovem mas
+ dando grande importância também ao público mais adulto que também acompanhará o material
+- O podcast vai ser apresentado apenas pelo apresentador sem a presença de convidados
+- A finalização deve ter o encerramento do apresentador informando seu nome Bruno Velloso
+e dando ênfase ao PodCast - No Grau Cast.
+
+Regras negativas:
+
+- O podcast não deve ultrapassar o tempo de 5 minutos
+- Não deve usar linguagens muito complexas e se usar deve detalha-las de forma simples
+para que o ouvinte não técnico possa compreender
