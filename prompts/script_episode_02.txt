@@ -32,4 +32,4 @@ Regras negativas:
 
 O podcast não deve ultrapassar o tempo de 10 minutos
 Não deve ter usar linguagem muito complexas e se usar deve detalha-las de forma simples para o ouvinte não técnico possa 
-compreender
+compreender.
