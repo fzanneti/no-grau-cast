@@ -1,8 +1,8 @@
 ## 🎙️ **Roteiro Episódio 02 - Ansiedade e Depressão: O Silêncio que Machuca**
 
-Duração estimada: até 10 minutos
-Apresentador: Bruno Velloso
-Convidada: Dra. Helena Monteiro
+- Duração estimada: até 10 minutos
+* Apresentador: Bruno Velloso
+* Convidada: Dra. Helena Monteiro
 
 ## 🎬 **Introdução**
 
