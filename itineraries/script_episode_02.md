@@ -9,18 +9,19 @@ Convidada: Dra. Helena Monteiro
 **BRUNO VELLOSO (Tom leve, amigável, estilo conversa informal do Flow)**
 
 > Fala, galera! Sejam muito bem-vindos a mais um episódio do No Grau Cast — onde a mente se ajeita, a tecnologia faz sentido e a trilha sonora nunca falha.
-Eu sou Bruno Velloso, e hoje o papo é daqueles que a gente precisa ter, mesmo que doa um pouquinho... Porque só falando é que a gente muda alguma coisa.
-
-Ansiedade, depressão... palavras que cada vez mais fazem parte do nosso dia a dia, mas que ainda vivem cercadas de silêncio. 
-E quando isso bate nos jovens, nas nossas crianças, ou mesmo nos pais que estão tentando entender tudo isso, o impacto é forte.
-
-Pra trocar essa ideia com a gente hoje, eu tenho a honra de receber uma especialista de respeito nesse assunto.
-Ela é Dra. Helena Monteiro, psicóloga clínica formada pela PUC-SP, mestre em Saúde Mental e autora da tese "O Grito Calado: juventude, redes sociais e o sofrimento emocional contemporâneo". Atua há mais de 15 anos com jovens e famílias, e hoje está aqui pra conversar com a gente com aquele jeitinho acessível, humano e direto.
-
-Bem-vinda, doutora Helena!
-
-**DR. HELENA**
-
+> Eu sou Bruno Velloso, e hoje o papo é daqueles que a gente precisa ter, mesmo que doa um pouquinho... Porque só falando é que a gente muda alguma coisa.
+>
+> Ansiedade, depressão... palavras que cada vez mais fazem parte do nosso dia a dia, mas que ainda vivem cercadas de silêncio. 
+> E quando isso bate nos jovens, nas nossas crianças, ou mesmo nos pais que estão tentando entender tudo isso, o impacto é forte.
+>
+> Pra trocar essa ideia com a gente hoje, eu tenho a honra de receber uma especialista de respeito nesse assunto.
+> Ela é Dra. Helena Monteiro, psicóloga clínica formada pela PUC-SP, mestre em Saúde Mental e autora da tese "O Grito Calado: juventude, redes sociais e o sofrimento emocional contemporâneo". Atua há mais de 15 
+> anos com jovens e famílias, e hoje está aqui pra conversar com a gente com aquele jeitinho acessível, humano e direto.
+>
+> Bem-vinda, doutora Helena!
+>
+> **DR. HELENA**
+>
 > Muito obrigada, Bruno. É um prazer estar aqui com você e com todos os ouvintes para falar de um tema tão urgente.
 
 ## 🧩 **Tema 1: “A juventude anda gritando em silêncio”**
