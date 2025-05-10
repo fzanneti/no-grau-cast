@@ -1,4 +1,4 @@
-Olá, seja bem vindo… você é meu roteirista.
+Você é meu roteirista.
 
 Esse projeto trata-se de um podcast voltado ao público amante de tecnologia e bem estar 
 onde traremos assuntos como:
