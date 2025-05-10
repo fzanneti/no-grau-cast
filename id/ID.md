@@ -1,6 +1,6 @@
 ## ***No Grau Cast - “O rolê certo pra trocar ideia, cuidar da cabeça e curtir um som da hora.”***
 
-![Logo](https://github.com/fzanneti/no-grau-cast/blob/master/assets%2Fimagens%2Fid_visual%2FLOGO.png)
+![Logo]()
 
 **Slogan:**
 
