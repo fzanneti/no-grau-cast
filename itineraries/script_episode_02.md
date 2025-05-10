@@ -26,7 +26,9 @@
 >
 > **Bruno Velloso**
 >
-> Doutora, muito obrigado por topar estar com a gente nesse episódio tão importante. Roda a vinheta! 
+> Doutora, muito obrigado por topar estar com a gente nesse episódio tão importante. Roda a vinheta!
+
+---
 
 ## 🧩 **Entrevista**
 
@@ -64,6 +66,8 @@
 >
 > **Dra. Helena:** Sim, o primeiro passo é conversar sem julgamentos. O segundo, procurar um psicólogo ou equipe de apoio especializada. E nunca deixar o jovem sozinho na jornada. O apoio contínuo, mesmo em
 > silêncio, vale muito mais do que mil conselhos vazios.
+
+---
 
 ## 🎤 **Finalização do Podcast**
 
