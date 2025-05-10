@@ -6,7 +6,7 @@
 
 ## 🎬 **Introdução**
 
-> **BRUNO VELLOSO (Tom leve, amigável, estilo conversa informal do Flow)**
+> **Bruno Velloso (Tom leve, amigável, estilo conversa informal do Flow)**
 >
 > Fala, galera! Sejam muito bem-vindos a mais um episódio do No Grau Cast — onde a mente se ajeita, a tecnologia faz sentido e a trilha sonora nunca falha.
 > Eu sou Bruno Velloso, e hoje o papo é daqueles que a gente precisa ter, mesmo que doa um pouquinho... Porque só falando é que a gente muda alguma coisa.
@@ -20,11 +20,11 @@
 >
 > Bem-vinda, doutora Helena!
 >
-> **DR. HELENA**
+> **Dra. Helena**
 >
 > Muito obrigada, Bruno. É um prazer estar aqui com você e com todos os ouvintes para falar de um tema tão urgente.
 >
-> **BRUNO VELLOSO**
+> **Bruno Velloso**
 >
 > Doutora, muito obrigado por topar estar com a gente nesse episódio tão importante. Roda a vinheta! 
 
