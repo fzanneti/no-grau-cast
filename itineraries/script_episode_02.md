@@ -4,7 +4,7 @@
 * Apresentador: Bruno Velloso
 * Convidada: Dra. Helena Monteiro
 
-## 🎬 **Introdução**
+### 🎬 **Introdução**
 
 > **Bruno Velloso (Tom leve, amigável, estilo conversa informal do Flow)**
 >
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧩 **Entrevista**
+### 🧩 **Entrevista**
 
 > **Bruno:** Doutora, a gente ouve muito falar de ansiedade e depressão, mas ainda assim parece que o assunto é meio abafado. Por que é tão difícil falar disso abertamente, principalmente entre os jovens?
 >
@@ -69,7 +69,7 @@
 
 ---
 
-## 🎤 **Finalização do Podcast**
+### 🎤 **Finalização do Podcast**
 
 > **Bruno:** Doutora Helena, muito obrigado por essa conversa necessária, por tanto conhecimento e, principalmente, por trazer luz pra tanta gente nesse momento.
 >
