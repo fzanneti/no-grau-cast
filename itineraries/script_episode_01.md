@@ -16,7 +16,6 @@
 > Será que ela vai mesmo roubar os empregos? Ou será que ela tá aqui pra somar com a gente?
 > 
 > Cola comigo, porque hoje o papo é reto, no fone e... **no grau**.
-> 
 
 ---
 
@@ -42,7 +41,6 @@
 > Tem também o “engenheiro de prompt”, que escreve comandos perfeitos pra IA gerar imagens, vídeos e textos.
 > 
 > Se liga: o mercado tá mudando — mas não tá acabando. Tá se **transformando**. E quem se atualiza, surfa essa onda.
-> 
 
 ---
 
@@ -64,7 +62,6 @@
 > E tem coisa linda também, viu? Já rolou IA ajudando a **reconstruir músicas perdidas de artistas falecidos**, ou **dar voz pra quem perdeu a fala**.
 > 
 > Não é só avanço tecnológico — é avanço **humano**. Quando usada com ética, a IA vira uma aliada de peso.
-> 
 
 ---
 
@@ -86,7 +83,6 @@
 > A IA tem poder. E com poder… vem aquele papo do tio Ben pro Homem-Aranha, né? Com poder, vem responsabilidade.
 > 
 > A diferença vai estar em **quem programa, quem regula e quem vigia**. E nesse rolê, a gente não pode ser só espectador.
-> 
 
 ---
 
