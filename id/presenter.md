@@ -1,6 +1,6 @@
 ## 🎙️ Conheça o Apresentador: Bruno Velloso
 
-![Apresentador](assets/images/avatar/avatar_2.png)
+![Apresentador](no-grau-cast/assets/images/avatar/avatar_2.png)
 
 🎙️ Bruno Velloso, 38 anos, é um comunicador nato, curioso incansável e apaixonado por tudo que envolve 🧠 mente, 💻 máquina e 🎶 música.
 📍 Natural de Campinas (SP), cresceu entre as fitas K7 do pai radialista 📼 e os primeiros computadores com disquetes 💾.
