@@ -66,7 +66,7 @@ Profissão: Comunicador e defensor da saúde mental
 
 ## 🧱 Identidade Visual e Sonora
 
-![Logo](https://github.com/fzanneti/no-grau-cast/blob/master/assets%2Fimages%2Fvisual_id%2FLOGO.png)
+![Logo](assets/images/visual_id/logo.png)
 
 - **Fonte**: Baloo 2  
 - **Paleta de Cores**:
