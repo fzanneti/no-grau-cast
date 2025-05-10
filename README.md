@@ -54,10 +54,10 @@ Profissão: Comunicador e defensor da saúde mental
 ## 🎧 Formato dos Episódios
 
 - Duração: até 5 minutos  
-- Apresentação solo com Bruno Velloso  
+- Apresentação solo com Bruno Velloso ou com convidados
 - Estrutura:
   1. Introdução
-  2. Três temas centrais
+  2. Três ou quatro temas centrais
   3. Final com chamada para o próximo episódio
 
 ---
