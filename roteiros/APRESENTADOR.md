@@ -1,5 +1,7 @@
 ## 🎙️ Conheça o Apresentador: Bruno Velloso
 
+![Apresentador](https://github.com/fzanneti/no-grau-cast/blob/master/assets%2Fimagens%2Favatar%2FAVATAR_2.png)
+
 Bruno Velloso, 38 anos, é um comunicador nato, curioso incansável e apaixonado por tudo que envolve mente, máquina e música. Natural de Campinas (SP), cresceu em meio às fitas K7 do pai radialista e aos primeiros computadores que rodavam em disquetes. Desde cedo, a mistura entre tecnologia e humanidade fez parte da sua rotina — e se tornou o fio condutor da sua jornada profissional.
 
 Formado em Comunicação Social com especialização em Mídias Digitais, Bruno acumulou mais de 15 anos de experiência em produção de conteúdo, passando por emissoras de rádio, agências de marketing e projetos de tecnologia educacional. Também é certificado em neurociência aplicada à educação e inteligência emocional, áreas que explorou profundamente após lidar com crises de ansiedade no início da vida adulta — experiência que hoje compartilha com empatia e propriedade em cada episódio.
