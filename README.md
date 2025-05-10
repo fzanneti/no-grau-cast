@@ -24,7 +24,7 @@ Da Inteligência Artificial às emoções humanas, do som do futuro à nostalgia
 
 ## 👨‍💼 Sobre o Apresentador
 
-![Foto do apresentador](https://github.com/fzanneti/no-grau-cast/blob/master/assets%2Fimages%2Favatar%2FAVATAR.png)
+![Foto do apresentador](assets/images/avatar/avatar_1.png)
 
 **Bruno Velloso**  
 Idade: 39 anos  
