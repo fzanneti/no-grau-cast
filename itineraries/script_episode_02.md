@@ -28,12 +28,17 @@
 >
 > Doutora, muito obrigado por topar estar com a gente nesse episódio tão importante. Roda a vinheta! 
 
-## 🧩 **Tema 1:**
+## 🧩 **Entrevista**
 
+> **Bruno:** Doutora, a gente ouve muito falar de ansiedade e depressão, mas ainda assim parece que o assunto é meio abafado. Por que é tão difícil falar disso abertamente, principalmente entre os jovens?
+>
+> **Dra. Helena:** Excelente pergunta, Bruno. Existe uma cultura do silêncio muito forte, especialmente entre adolescentes, onde expressar emoções é confundido com fraqueza. Além disso, muitos pais e
+> responsáveis ainda veem sintomas como "drama" ou "preguiça", o que invalida a dor real que esses jovens estão sentindo.
+>
 > **Bruno:** Doutora, a gente fala muito hoje de ansiedade e depressão, mas muita gente ainda acha que é “frescura”, drama ou fase. O que tá acontecendo com essa geração que parece mais conectada, mas ao mesmo
 > tempo mais sozinha?
 >
-> Dra. Helena: Hoje temos uma geração hiperestimulada, que vive com os olhos em telas e o coração muitas vezes sem espaço de escuta. As redes sociais criam uma vitrine onde todo mundo parece feliz, produtivo,
+> **Dra. Helena:** Hoje temos uma geração hiperestimulada, que vive com os olhos em telas e o coração muitas vezes sem espaço de escuta. As redes sociais criam uma vitrine onde todo mundo parece feliz, produtivo,
 > bonito… e isso gera uma cobrança absurda.
 > O resultado? Jovens sobrecarregados, mas sem coragem de falar. Sentem que “não podem falhar”, e acabam engolindo tudo. Isso não é drama. É dor real.
 
