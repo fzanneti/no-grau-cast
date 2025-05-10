@@ -1,4 +1,4 @@
-## 🎙️ **Roteiro Episódio 02 - Ansiedade e Depressão: O Silêncio que Machuca**
+ ## 🎙️ **Roteiro Episódio 02 - Ansiedade e Depressão: O Silêncio que Machuca**
 
 * Duração estimada: até 10 minutos
 * Apresentador: Bruno Velloso
@@ -35,28 +35,21 @@
 > **Dra. Helena:** Excelente pergunta, Bruno. Existe uma cultura do silêncio muito forte, especialmente entre adolescentes, onde expressar emoções é confundido com fraqueza. Além disso, muitos pais e
 > responsáveis ainda veem sintomas como "drama" ou "preguiça", o que invalida a dor real que esses jovens estão sentindo.
 >
-> **Bruno:** Doutora, a gente fala muito hoje de ansiedade e depressão, mas muita gente ainda acha que é “frescura”, drama ou fase. O que tá acontecendo com essa geração que parece mais conectada, mas ao mesmo
-> tempo mais sozinha?
+> **Bruno:** É aquela sensação de "ninguém vai entender", né?
 >
-> **Dra. Helena:** Hoje temos uma geração hiperestimulada, que vive com os olhos em telas e o coração muitas vezes sem espaço de escuta. As redes sociais criam uma vitrine onde todo mundo parece feliz, produtivo,
-> bonito… e isso gera uma cobrança absurda.
+> **Dra. Helena:** Exatamente. E quando isso acontece dentro da própria casa, fica ainda mais doloroso.
+> O jovem sofre calado... e os pais muitas vezes nem percebem.
+>
+> **Bruno:** O que tá acontecendo com essa geração que parece mais conectada, mas ao mesmo tempo mais sozinha?
+>
+> **Dra. Helena:** Hoje temos uma geração hiperestimulada, que vive com os olhos em telas e o coração muitas vezes sem espaço de escuta. As redes sociais criam uma vitrine onde todo mundo parece feliz,
+> produtivo, bonito… e isso gera uma cobrança absurda.
 > O resultado? Jovens sobrecarregados, mas sem coragem de falar. Sentem que “não podem falhar”, e acabam engolindo tudo. Isso não é drama. É dor real.
-
-## 🧩 **Tema 2: “Quando os pais não sabem mais o que fazer”**
-
-> Bruno: E aí entra um ponto chave… os pais. Porque a dor dos filhos vira a dor dos pais também. Mas como os pais podem perceber, acolher, sem invadir ou julgar?
+> 
+> **Bruno:** E pra quem tá em casa ouvindo... que sinais os pais precisam começar a perceber nos filhos?
 >
-> Dra. Helena: O primeiro passo é observar sem invadir. Mudanças de comportamento, sono, alimentação, isolamento — tudo isso são sinais. Mas o mais importante é criar um ambiente de confiança. O jovem precisa
-> sentir que pode falar sem ser interrompido ou julgado. Os pais não precisam ter todas as respostas — eles precisam estar presentes, de verdade.
-
-## 🧩 **Tema 3: “O perigo do silêncio: quando ignorar pode ser fatal”**
-
-> Bruno: Muita gente só procura ajuda quando já tá no limite, né? Por que isso acontece? E o que pode ser feito antes?
->
-> Dra. Helena:
-> Porque ainda existe muito tabu. Muita vergonha. Muita culpa. E infelizmente, o silêncio pode ser fatal.
-> A prevenção começa no dia a dia. Uma conversa na hora do jantar, um “tô aqui se quiser falar”, um elogio sincero.
-> E claro, buscar ajuda profissional quando necessário. Psicólogo não é só pra crise — é pra vida.
+> **Dra. Helena:** Alguns sinais são bem sutis no começo: isolamento repentino, irritabilidade constante, mudanças bruscas de humor ou queda no desempenho escolar.
+> Mas o mais importante é: quando os pais sentem que “algo mudou”, é preciso agir com escuta e acolhimento, não com julgamento.
 
 ## 🧩 **Tema 4: “A vida pode ser leve: caminhos de cura”**
 
