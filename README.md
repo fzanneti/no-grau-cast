@@ -73,10 +73,6 @@ Profissão: Comunicador e defensor da saúde mental
   - Laranja vibrante `#FF6B35`
   - Branco suave `#F9F9F9`
 
-- **Vinheta de Abertura**: narrada por Bruno Velloso  
-- **Vinheta de Encerramento**:
-  > “Você ouviu o No Grau Cast — a sintonia perfeita entre tecnologia, bem-estar e som de qualidade..."
-
 ---
 
 ## 🔧 Ferramentas Utilizadas
