@@ -50,25 +50,30 @@
 >
 > **Dra. Helena:** Alguns sinais são bem sutis no começo: isolamento repentino, irritabilidade constante, mudanças bruscas de humor ou queda no desempenho escolar.
 > Mas o mais importante é: quando os pais sentem que “algo mudou”, é preciso agir com escuta e acolhimento, não com julgamento.
-
-## 🧩 **Tema 4: “A vida pode ser leve: caminhos de cura”**
-
-> Bruno: Pra quem tá ouvindo agora e se sente perdido… ou tem alguém próximo passando por isso. Tem jeito, né?
+> 
+> **Bruno:** Verdade doutora, correto... é isso mesmo! Ou seja, mais atenção e menos cobrança, né?
 >
-> Dra. Helena:
-> Tem, sim. A ansiedade e a depressão não são sentenças, são estados que podem ser tratados.
-> Com ajuda, com acolhimento, com terapia, com fé — como o nome do seu livro, Bruno, é possível vencer a tempestade e reencontrar a luz.
+> **Dra. Helena:** Exatamente! O acolhimento é o primeiro passo para que o jovem se sinta seguro em compartilhar o que está passando.
+>
+> **Bruno:** Agora, doutora, tem muito pai e mãe que também tá no limite emocional. Como eles podem ajudar os filhos se também estão sobrecarregados?
+>
+> **Dra. Helena:** Bruno, ninguém precisa ser perfeito. O primeiro passo é reconhecer os próprios limites. Buscar ajuda profissional, inclusive familiar, pode ser libertador. Mostrar vulnerabilidade não é
+> fraqueza — é ensinar pelo exemplo que pedir ajuda é normal e saudável.
+>
+> **Bruno:** E pra quem já percebeu que o filho tá mal, o que fazer na prática? Existe um “primeiro passo”?
+>
+> **Dra. Helena:** Sim, o primeiro passo é conversar sem julgamentos. O segundo, procurar um psicólogo ou equipe de apoio especializada. E nunca deixar o jovem sozinho na jornada. O apoio contínuo, mesmo em
+> silêncio, vale muito mais do que mil conselhos vazios.
 
 ## 🎤 **Finalização do Podcast**
 
-> Bruno: Doutora Helena Monteiro, que papo importante. Muito obrigado por estar com a gente hoje, por compartilhar tanta experiência e sensibilidade.
-> E pra você que ouviu até aqui — se essa conversa tocou o seu coração, compartilha com alguém que precisa ouvir isso.
+> **Bruno:** Doutora Helena, muito obrigado por essa conversa necessária, por tanto conhecimento e, principalmente, por trazer luz pra tanta gente nesse momento.
 >
-> Eu sou Bruno Velloso, e esse foi mais um episódio do No Grau Cast.
-> Onde a gente fala de tudo o que importa — sem enrolação, sem tabu, no grau!
+> **Dra. Helena:** Eu que agradeço, Bruno. Foi uma honra estar aqui com você e com os ouvintes do No Grau Cast.
 >
-> Ah! E antes de ir, quero lembrar que tá disponível gratuitamente pra vocês o livro Luz na Tempestade: Vencendo a Ansiedade e a Depressão, do Fabio Zanneti da Silva.
-> Um material profundo, acolhedor e feito com muito amor pra ajudar quem precisa.
-> O link tá lá no Instagram: @fzanneti. Baixa, lê, e compartilha luz!
->
-> Nos vemos no próximo episódio. Valeu demais!
+> **Bruno:** E pra você que ficou até aqui, o nosso muito obrigado!
+> Esse foi mais um episódio do No Grau Cast, onde a gente fala de verdade, com coração e sem enrolação.
+> Eu sou Bruno Velloso, e antes de encerrar quero lembrar que está disponível gratuitamente o livro “Luz na Tempestade: Vencendo a Ansiedade e a Depressão”, do meu amigo e idealizador desse podcast
+> Fabio Zanneti da Silva.
+> O link pra baixar está no Instagram do meu parceiro: @fzanneti.
+> Nos vemos no próximo episódio. E lembre-se: cuidar da mente também é coisa de quem tá no grau!
