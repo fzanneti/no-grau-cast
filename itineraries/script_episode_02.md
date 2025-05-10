@@ -28,9 +28,10 @@
 >
 > Doutora, muito obrigado por topar estar com a gente nesse episódio tão importante. Roda a vinheta! 
 
-## 🧩 **Tema 1: “A juventude anda gritando em silêncio”**
+## 🧩 **Tema 1:**
 
-> Bruno: Doutora, a gente fala muito hoje de ansiedade e depressão, mas muita gente ainda acha que é “frescura”, drama ou fase. O que tá acontecendo com essa geração que parece mais conectada, mas ao mesmo tempo > mais sozinha?
+> **Bruno:** Doutora, a gente fala muito hoje de ansiedade e depressão, mas muita gente ainda acha que é “frescura”, drama ou fase. O que tá acontecendo com essa geração que parece mais conectada, mas ao mesmo
+> tempo mais sozinha?
 >
 > Dra. Helena: Hoje temos uma geração hiperestimulada, que vive com os olhos em telas e o coração muitas vezes sem espaço de escuta. As redes sociais criam uma vitrine onde todo mundo parece feliz, produtivo,
 > bonito… e isso gera uma cobrança absurda.
