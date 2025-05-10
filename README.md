@@ -72,6 +72,7 @@ Profissão: Comunicador e defensor da saúde mental
   - Verde-menta `#00C897`
   - Laranja vibrante `#FF6B35`
   - Branco suave `#F9F9F9`
+- **Subtítulo da marca**: "O rolê certo pra trocar ideia, cuidar da cabeça e curtir um som da hora."
 - **Slogan**: "Onde a mente se ajeita, a tecnologia faz sentido e a trilha sonora nunca falha."
 
 ---
