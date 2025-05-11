@@ -2,7 +2,7 @@
 
 > Onde a mente se ajeita, a tecnologia faz sentido e a trilha sonora nunca falha.
 
-<iframe src="https://polished-umbrella-a81.notion.site/ebd/1e922a7c4a3a8094a233e7796432f9b6" width="100%" height="600" frameborder="0" allowfullscreen />
+[<iframe src="https://polished-umbrella-a81.notion.site/ebd/1e922a7c4a3a8094a233e7796432f9b6" width="100%" height="600" frameborder="0" allowfullscreen />](https://www.notion.so/No-Grau-Cast-O-rol-certo-pra-trocar-id-ia-cuidar-da-cabe-a-e-curtir-um-som-da-hora-1e922a7c4a3a8094a233e7796432f9b6?pvs=4)
 
 ## 📌 Resumo Geral
 O **No Grau Cast** é um podcast brasileiro voltado para jovens-adultos interessados em **tecnologia**, **saúde mental** e **música**. Com episódios curtos e impactantes, é apresentado de forma leve e empática por **Bruno Velloso**.
