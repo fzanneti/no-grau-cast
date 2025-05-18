@@ -110,34 +110,34 @@
 > 
 > Expressão cultural.  
 > Espiritual.  
-Política.  
-Bob Marley usava aquela batida gostosa...  
-Pra denunciar injustiças.  
-Pra erguer quem tava no chão.
-
-O álbum “Exodus” foi eleito o melhor do século XX pela revista Time.  
-E não é à toa.  
-É arte.  
-É luta.  
-É libertação.
+> Política.  
+> Bob Marley usava aquela batida gostosa...  
+> Pra denunciar injustiças.  
+> Pra erguer quem tava no chão.
+>
+> O álbum “Exodus” foi eleito o melhor do século XX pela revista Time.  
+> E não é à toa.  
+> É arte.  
+> É luta.  
+> É libertação.
 
 🎵 [Trecho de “Exodus” – 10 segundos]
 
-Bob Marley dizia:  
-“Emancipem-se da escravidão mental.  
-Ninguém além de nós pode libertar nossas mentes.”
-
-E também:  
-“A maior covardia de um homem...  
-É despertar o amor de uma mulher sem a intenção de amá-la.”  
-Pancada, né?
-
-Ele não era só poesia.  
-Ele era verdade.  
-Mesmo tendo partido cedo...  
-Aos 36 anos...  
-A voz dele ainda ecoa.  
-Como um grito de esperança.
+> Bob Marley dizia:  
+> “Emancipem-se da escravidão mental.  
+> Ninguém além de nós pode libertar nossas mentes.”
+> 
+> E também:  
+> “A maior covardia de um homem...  
+> É despertar o amor de uma mulher sem a intenção de amá-la.”  
+> Pancada, né?
+> 
+> Ele não era só poesia.  
+> Ele era verdade.  
+> Mesmo tendo partido cedo...  
+> Aos 36 anos...  
+> A voz dele ainda ecoa.  
+> Como um grito de esperança.
 
 🎵 [Trecho de “Three Little Birds” – refrão, 8 segundos]
 
@@ -145,31 +145,31 @@ Como um grito de esperança.
 
 🎤 **Finalização do Podcast**
 
-E assim...  
-A gente encerra esse episódio com o coração mais leve.  
-Mais consciente.  
-E no grau.
-
-Bob Marley nos ensinou que a música pode ser arma...  
-E pode ser cura.  
-Que a paz começa dentro da gente.  
-E que o amor...  
-Esse sim...  
-É revolucionário.
+> E assim...  
+> A gente encerra esse episódio com o coração mais leve.  
+> Mais consciente.  
+> E no grau.
+> 
+> Bob Marley nos ensinou que a música pode ser arma...  
+> E pode ser cura.  
+> Que a paz começa dentro da gente.  
+> E que o amor...  
+> Esse sim...  
+> É revolucionário.
 
 🎵 [Trilha de “One Love” – instrumental, 5 segundos]
 
-Eu sou Bruno Velloso,  
-e esse foi mais um No Grau Cast.
-
-Se curtiu, compartilha.  
-Manda pra alguém que precise dessa vibe.  
-E lembra:  
-O livro gratuito “Luz na Tempestade” tá disponível no Instagram do meu parceiro @fzanneti.  
-É só colar lá e pegar o link!
-
-Semana que vem tem mais.  
-Até lá.  
-E que o som de Bob Marley continue te guiando…  
-Com paz, amor...  
-E atitude.
+> Eu sou Bruno Velloso,  
+> e esse foi mais um No Grau Cast.
+> 
+> Se curtiu, compartilha.  
+> Manda pra alguém que precise dessa vibe.  
+> E lembra:  
+> O livro gratuito “Luz na Tempestade” tá disponível no Instagram do meu parceiro @fzanneti.  
+> É só colar lá e pegar o link!
+> 
+> Semana que vem tem mais.  
+> Até lá.  
+> E que o som de Bob Marley continue te guiando…  
+> Com paz, amor...  
+> E atitude.
