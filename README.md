@@ -4,18 +4,18 @@
 
 - [Acesse nosso site](https://polished-umbrella-a81.notion.site/No-Grau-Cast-O-rol-certo-pra-trocar-id-ia-cuidar-da-cabe-a-e-curtir-um-som-da-hora-1e922a7c4a3a8094a233e7796432f9b6)
 
-## 📌 Resumo Geral
+### 📌 Resumo Geral
 O **No Grau Cast** é um podcast brasileiro voltado para jovens-adultos interessados em **tecnologia**, **saúde mental** e **música**. Com episódios curtos e impactantes, é apresentado de forma leve e empática por **Bruno Velloso**.
 
 ---
 
-## 🧠 Conceito Principal
+### 🧠 Conceito Principal
 Um espaço onde informação e descontração se encontram.  
 Da Inteligência Artificial às emoções humanas, do som do futuro à nostalgia do passado — tudo no mesmo grau.
 
 ---
 
-## 🎯 Objetivos do Projeto
+### 🎯 Objetivos do Projeto
 - Educar sobre inovações tecnológicas, especialmente IA
 - Sensibilizar sobre saúde mental
 - Entreter com conteúdo musical envolvente
@@ -24,9 +24,9 @@ Da Inteligência Artificial às emoções humanas, do som do futuro à nostalgia
 
 ---
 
-## 👨‍💼 Sobre o Apresentador
+<img src="https://github.com/fzanneti/no-grau-cast/blob/e803385e35908e94dc43d38d3461cbd2471fda7d/assets/images/avatar/avatar_1.png" width="300px" align="right">
 
-![Foto do apresentador](assets/images/avatar/avatar_1.png)
+### 👨‍💼 Sobre o Apresentador
 
 **Bruno Velloso**  
 Idade: 39 anos  
@@ -42,7 +42,7 @@ Profissão: Comunicador e defensor da saúde mental
 
 ---
 
-## 🗂️ Pilares de Conteúdo
+### 🗂️ Pilares de Conteúdo
 
 - **Tecnologia (IA)**  
   Avanços, curiosidades e reflexões éticas
@@ -55,7 +55,7 @@ Profissão: Comunicador e defensor da saúde mental
 
 ---
 
-## 🎧 Formato dos Episódios
+### 🎧 Formato dos Episódios
 
 - Duração: até 5 minutos  
 - Apresentação solo com Bruno Velloso ou com convidados
@@ -66,7 +66,7 @@ Profissão: Comunicador e defensor da saúde mental
 
 ---
 
-## 🧱 Identidade Visual e Sonora
+### 🧱 Identidade Visual e Sonora
 
 ![Logo](assets/images/visual_id/logo.png)
 
@@ -81,7 +81,7 @@ Profissão: Comunicador e defensor da saúde mental
 
 ---
 
-## 🔧 Ferramentas Utilizadas
+### 🔧 Ferramentas Utilizadas
 
 - [ChatGPT](https://chat.openai.com)
 - [Bing](https://www.bing.com/images/create)
@@ -92,7 +92,7 @@ Profissão: Comunicador e defensor da saúde mental
 
 ---
 
-## 📊 Diferenciais Estratégicos
+### 📊 Diferenciais Estratégicos
 
 - Linguagem jovem e profunda
 - Curtos e impactantes (ideal pra Reels e cortes)
